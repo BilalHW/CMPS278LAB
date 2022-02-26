@@ -1,0 +1,75 @@
+    #page{
+    background-image: url("images/background.gif");
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+   
+   
+    
+}
+#box{
+    border: solid 10px #fff ;
+    border-width: thick;
+    color: #1ea39d;
+    background-color: #ffffff;
+    overflow: auto;
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+img{
+    float:right;
+}
+#first{
+    text-align: right;
+    background-color:  #A8F0F0 ;
+
+}
+#inner{
+    font-size: 14pt;
+}
+.second{
+    border: solid 4px  #C2E9E9;
+    border-width: thick;
+    background-color:  #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    overflow: auto;
+}
+.date{
+    
+    border-bottom:  solid 2px blue;
+    border-bottom-width: thick;
+    border-bottom-style: dashed;
+    
+}
+a{
+    color: #1ea39d;
+    text-decoration: none;
+}
+.layout{
+    float: right;
+    width: 75%;
+}
+#bar{
+    border: #29a8a2 7px solid;
+    border-collapse: collapse;
+    float: left;
+    background-color: #91cecb;
+    margin-top: 10px;
+    width: 22%;
+}
+
+  
+  
+
+/* ul{
+    
+    list-style-type:'⬥';
+
+} */
+
+/* here the first comment in my page: I add the file to git from the repository
+therefore in order to practice pull and push I will do some edits in this layout page so I can push changes to the reposotiry  */
+
